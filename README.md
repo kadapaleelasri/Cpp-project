@@ -1,4 +1,1 @@
-# Practice
-practice_repo
-<br>
-Author-leela
+# Supermarket billing system project built using C++
